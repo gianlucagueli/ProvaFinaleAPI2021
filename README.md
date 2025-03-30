@@ -1,4 +1,3 @@
-```markdown
 # ProvaFinaleAPI2021
 
 Repository for the final project of API 2021. It contains code and tools for working with graph ranking.
@@ -29,4 +28,3 @@ You can customize the input data according to the project's needs.
 
 ## Notes
 Project developed for the exam of Algorithms and Principles of Computer Science (2021) at PoliMi.
-```
